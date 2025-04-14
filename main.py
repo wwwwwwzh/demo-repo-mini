@@ -1,3 +1,3 @@
-if __name__ == "__main__":
+def main()
     # Call the greet function with a sample name
     print("World")
